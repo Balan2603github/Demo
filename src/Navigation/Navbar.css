@@ -1,0 +1,19 @@
+nav{
+    background-color: black;
+    color: white;
+}
+li{
+    list-style: none;
+    color: white;
+}
+nav{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+ul{
+    display: flex;
+    gap: 25px;
+    justify-content: end;
+}
